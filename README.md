@@ -52,5 +52,21 @@ python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-Mobilevit-Po
 # LiteMobilevit-Pose
 python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-LiteMobilevit-Pose.py
 ```
+### Resuult
+pose
+Method	AP	AR	parameters (M)	FLOPs (G)
+HRNet-w32	0.902	0.928	28.536	7.685
+HRNet-w48	0.917	0.937	63.596	15.745
+UDP-HRNet-w48	0.936	0.952	63.596	15.745
+HRFormer-s	0.869	0.900	7.747	3.331
+DeepPose-MBv2	0.882	0.907	2.349	0.307
+Integral-regression	0.848	0.873	33.999	5.448
+SimCC-MBv2	0.884	0.907	2.286	0.308
+Uniformer-b	0.887	0.916	53.464	9.213
+ViTPose	0.891	0.919	89.993	18.541
+RTMpose-m	0.932	0.945	13.475	1.921
+RTMpose-t	0.910	0.929	3.281	0.354
+MobileViT-Pose	0.924	0.938	2.871	0.789
+LiteMobileViT-Pose	0.913	0.912	1.735	0.272
 ## ❤️ Acknowledgments
 Our code is built based on [mmpose](https://github.com/open-mmlab/mmpose.git), [mmpretrain](https://github.com/open-mmlab/mmpretrain), and [CREStereo](https://github.com/megvii-research/CREStereo.git). Thanks for their wonderful work.
