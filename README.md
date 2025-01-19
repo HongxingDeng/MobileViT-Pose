@@ -24,7 +24,7 @@ Pose estimation dataset was developed for cattle object detection and measuremen
 ## 🛠️ Usage
 ### Installation
 #### Prerequisites
-    需要 Python 3.7+、CUDA 9.2+ 和 PyTorch 1.8+
+    Python 3.7+、CUDA 9.2+ 和 PyTorch 1.8+
 ```shell
 # create python env
 conda create --name openmmlab python=3.8 -y
@@ -46,5 +46,10 @@ pip install -r requirements.txt
 pip install -v -e .
 ```
 ### Training
-
+```shell
+# MobileViT-Pose
+python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-Mobilevit-Pose.py
+# LiteMobilevit-Pose
+python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-LiteMobilevit-Pose.py
+```
 ### 
