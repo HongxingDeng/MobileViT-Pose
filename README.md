@@ -11,3 +11,5 @@ Keywords: Cattle; Body Size; Automatic measurement; Stereo vision; Pose estimati
     🔥The proposed method was deployable for rapidly cow’s body size measurement
 
 ## Todo
+- [√] Source code and models for the open-source MobileViT-Pose and LiteMobileViT-Pose
+- [√] Public pose estimation datasets
