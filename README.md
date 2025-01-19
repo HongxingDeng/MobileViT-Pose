@@ -4,7 +4,7 @@
 Keywords: Cattle; Body Size; Automatic measurement; Stereo vision; Pose estimation
 
 **Highlights**
-Stereo vision and pose estimation were fused for accurate cow’s body size measurement
-CREStereo was robust and with high-precision for agricultural context description
-MobileViT-Pose model was rapid and accurate for point localization measurement
-The proposed method was deployable for rapidly cow’s body size measurement
+🔥Stereo vision and pose estimation were fused for accurate cow’s body size measurement
+🔥CREStereo was robust and with high-precision for agricultural context description
+🔥MobileViT-Pose model was rapid and accurate for point localization measurement
+🔥The proposed method was deployable for rapidly cow’s body size measurement
