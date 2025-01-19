@@ -52,4 +52,5 @@ python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-Mobilevit-Po
 # LiteMobilevit-Pose
 python tools/train.py configs/body_2d_keypoint/rtmpose/coco/rtmpose-LiteMobilevit-Pose.py
 ```
-### 
+## ❤️ Acknowledgments
+Our code is built based on [mmpose](https://github.com/open-mmlab/mmpose.git), [mmpretrain](https://github.com/open-mmlab/mmpretrain), and [CREStereo](https://github.com/megvii-research/CREStereo.git). Thanks for their wonderful work.
