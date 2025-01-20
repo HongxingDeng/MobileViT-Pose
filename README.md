@@ -20,7 +20,7 @@ Visual workflow of cattle body size measurement. ①: dairy cattle; ②: beef ca
 - [√] Evaluation code for MobileViT-Pose and MobileViT-Pose.
 - [ ] Usage example notebook of MobileViT-Pose and MobileViT-Pose.
 ## 👨‍💻 Data
-Pose estimation dataset was developed for cattle object detection and measurement point localization, consist of left-eye images captured using a ZED Stereo camera, data from the [NWAFU-Cattle dataset](https://github.com/MicaleLee/Database/blob/master/NWAFU-CattleDataset), [the Hereford cattle dataset](https://github.com/ruchaya/CowDatabase), and [the Angus cattle dataset](https://github.com/ruchaya/CowDatabase2).
+Pose estimation dataset was developed for cattle object detection and measurement point localization, consist of left-eye images captured using a ZED Stereo camera, data from the [NWAFU-Cattle dataset](https://github.com/MicaleLee/Database/blob/master/NWAFU-CattleDataset), [the Hereford cattle dataset](https://github.com/ruchaya/CowDatabase), and [the Angus cattle dataset](https://github.com/ruchaya/CowDatabase2). You can download it from [here](https://drive.google.com/drive/folders/1-3pJ32J9aenw8ZvTbI-dsErxpDYr8LXn?usp=drive_link).
 ## 🛠️ Usage
 ### Installation
 #### Prerequisites
